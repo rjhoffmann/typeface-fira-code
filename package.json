@@ -1,0 +1,15 @@
+{
+  "name": "typeface-fira-code",
+  "version": "0.0.1",
+  "description": "Fira Code typeface",
+  "main": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjhoffmann/typeface-fira-code.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rjhoffmann/typeface-fira-code/issues"
+  },
+  "homepage": "https://github.com/rjhoffmann/typeface-fira-code#readme"
+}
